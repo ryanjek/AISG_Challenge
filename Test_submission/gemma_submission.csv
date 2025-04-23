@@ -1,0 +1,1519 @@
+qid,pred
+0008-0,"The last person holds a bottle of coke in front of a Christmas tree, while the first two people are simply sitting at a table with a bottle of soda."
+0008-1,The last person is holding a bottle of coke in front of a christmas tree.
+0008-2,Yes
+0008-3,No
+0008-7,B
+0012-0,Two.
+0012-1,Two.
+0012-2,No
+0012-3,No
+0012-7,A
+0016-0,The person is facing the viewer.
+0016-1,The person is looking upwards.
+0016-2,No
+0016-3,Yes
+0016-7,D
+0036-0,The machine cuts the zucchini thinly by repeatedly dropping tennis balls into it.
+0036-1,The machine slices the zucchini by dropping it into a rotating mechanism.
+0036-2,No.
+0036-3,Yes.
+0036-7,A
+0037-0,Three parts of the video have been artificially edited.
+0037-1,The video exhibits artificial editing in nine sections.
+0037-2,Yes
+0037-3,Yes
+0037-7,D
+0038-0,The person was holding a bottle of coke in front of a christmas tree.
+0038-1,The man was holding a bottle of coke in front of a Christmas tree.
+0038-2,No
+0038-3,No
+0038-7,C
+0064-0,The room transitioned to darkness with the appearance of a moon and a logo.
+0064-1,"The moon appears in the sky, causing the room to become dark."
+0064-2,No.
+0064-3,No.
+0064-7,C
+0070-0,The person in the video poured the water twice.
+0070-1,The person pours water three times in the video.
+0070-2,Yes
+0070-3,Yes
+0070-7,C
+0080-0,Someone is playing with a small toy on a table.
+0080-1,"The video shows someone playing with numbered eggs and balls, suggesting a game involving hitting targets."
+0080-2,Yes
+0080-3,No
+0080-7,B
+0081-0,The man puts his hand on his face in an attempt to react to the unexpected appearance of the woman in the bathroom.
+0081-1,The man covers his face with his hand in an attempt to suppress a reaction to the scene.
+0081-2,No.
+0081-3,No.
+0081-7,B
+0083-0,The video depicts a frustrated mother expressing disapproval of her daughter's new dog.
+0083-1,The daughter repeatedly enters the room to express her excitement and desire for the mother to accept the dog.
+0083-2,Yes
+0083-3,Yes
+0083-7,D
+0099-0,There are eleven zoomed-in close-ups throughout the video.
+0099-1,Seven
+0099-2,Yes
+0099-3,Yes
+0099-7,C
+0101-0,The man appears in the final frame of the video.
+0101-1,"The man appears in a room, then in front of a dog in a box, and finally in front of a dog."
+0101-2,No
+0101-3,No
+0101-7,B
+0113-0,One building is demolished throughout the video.
+0113-1,Three buildings are demolished in the video.
+0113-2,Yes
+0113-3,Yes
+0113-7,C
+0117-0,Two toy cars are shown in the video.
+0117-1,Two
+0117-2,Yes
+0117-3,Yes
+0117-7,C
+0118-0,The video does not show the person’s action to make the bottle fall down to the ground.
+0118-1,The boy was holding a bottle of water at the start of the video.
+0118-2,No
+0118-3,No
+0118-7,C
+0127-0,Three watches are shown in the video.
+0127-1,Three
+0127-2,Yes
+0127-3,Yes
+0127-7,C
+0129-0,Three
+0129-1,Three
+0129-2,No
+0129-3,No
+0129-7,B
+0133-0,The final scene depicts a close-up of a smiling face.
+0133-1,The video ends with a close-up of a smiling child holding a brightly colored balloon.
+0133-2,No
+0133-3,No
+0133-7,D
+0142-0,Spider-Man is cleaning the escalator with a rag.
+0142-1,The character in costume is cleaning the escalator.
+0142-2,No
+0142-3,No
+0142-7,D
+0146-0,The car’s color changes six times.
+0146-1,The car's color shifts three times in the video.
+0146-2,No
+0146-3,No
+0146-7,C
+0151-0,A woman is holding a potato on a stick.
+0151-1,A woman is holding a potato on a stick with a blue tube.
+0151-2,No
+0151-3,Yes
+0151-7,C
+0152-0,scissors
+0152-1,A blue string.
+0152-2,No
+0152-3,No
+0152-7,C
+0154-0,The adult man hands the white cutting board to the child with his right hand.
+0154-1,The man uses his right hand to pass the white cutting board to the child.
+0154-2,No
+0154-3,Yes
+0154-7,C
+0162-0,The golfer in the video successfully hit the target six times.
+0162-1,The golfer achieves three successful target hits in the video.
+0162-2,No
+0162-3,No
+0162-7,B
+0167-0,The woman is holding a cell phone in her hands.
+0167-1,The woman holds a cell phone in her hands.
+0167-2,No
+0167-3,No
+0167-7,C
+0169-0,Seven
+0169-1,Seven
+0169-2,Yes
+0169-3,Yes
+0169-7,C
+0179-0,The person cuts the stem twice.
+0179-1,0
+0179-2,No
+0179-3,No
+0179-7,C
+0198-0,Three
+0198-1,There are two photos labeled 'old me' shown in the video.
+0198-2,No
+0198-3,Yes
+0198-7,B
+0217-0,The demonstration of capillary action lasted 14 seconds.
+0217-1,"The video depicts a series of experiments involving colored liquids and cups, but does not show a capillary action demonstration."
+0217-2,No
+0217-3,No
+0217-7,D
+0242-0,The two cats jumped away from the person in the red hat.
+0242-1,There are two cats that are playing with a spider on the floor.
+0242-2,No
+0242-3,No
+0242-7,D
+0248-0,The person in the foreground is smiling and looking at the camera.
+0248-1,The person is playing a musical instrument.
+0248-2,No
+0248-3,Yes
+0248-7,D
+0251-0,The ball falls off the disc because people are standing around the table.
+0251-1,People are standing around a table with a ball on it.
+0251-2,No.
+0251-3,Yes
+0251-7,D
+0256-0,The ping-pong ball does not bounce on the ground in total.
+0256-1,The ping-pong ball hits the ground zero times.
+0256-2,No
+0256-3,No
+0256-7,D
+0259-0,The man used his right hand to throw away his hat.
+0259-1,The man discarded his hat with his left hand.
+0259-2,No.
+0259-3,No
+0259-7,D
+0266-0,The yellow rubber band is fully looped around the face on the triangle.
+0266-1,The yellow rubber band is completely wrapped around the right thumb.
+0266-2,No
+0266-3,No
+0266-7,B
+0267-0,A man is jumping in the air with a skateboard.
+0267-1,The first person in the video is jumping in the air with a skateboard.
+0267-2,No
+0267-3,Yes
+0267-7,C
+0273-0,The question cannot be answered from the provided context.
+0273-1,The question cannot be answered from the provided context.
+0273-2,No
+0273-3,No
+0273-7,C
+0274-0,There are many people in the video.
+0274-1,There are many people visible in the video.
+0274-2,Yes
+0274-3,Yes
+0274-7,D
+0276-0,The video depicts a sequence of drawing a cube on paper.
+0276-1,The video demonstrates a drawing technique where a pencil is repeatedly moved across a surface to simulate the motion of a pen passing under the cube.
+0276-2,No
+0276-3,No.
+0276-7,B
+0278-0,The video shows a person writing with a green marker on the paper.
+0278-1,The video depicts someone writing with a green marker.
+0278-2,No
+0278-3,No
+0278-7,D
+0288-0,The knife used to cut the dog’s bone is not easy to use.
+0288-1,The man is repeatedly instructed to use two hands and cut with two hands when using the knife.
+0288-2,Yes
+0288-3,No
+0288-7,B
+0291-0,The record player's rotation caused the movement of the metal rod.
+0291-1,"The light bulb initiated the rotational movement of the metal rod, and the purple lighting continued it."
+0291-2,No.
+0291-3,No
+0291-7,B
+0292-0,Two
+0292-1,There are zero vehicles following the bus.
+0292-2,No
+0292-3,No
+0292-7,B
+0295-0,The person holding the yellow bag tried three methods.
+0295-1,The person with the yellow bag attempted three techniques.
+0295-2,Yes
+0295-3,Yes
+0295-7,A
+0296-0,The man is unexpectedly shrunk in the wash before attempting to catch the pants.
+0296-1,The man is attempting to grab clothes while moving quickly.
+0296-2,No
+0296-3,No
+0296-7,D
+0303-0,The man stops cycling on a wet surface while using a skateboard.
+0303-1,The man is riding a skateboard on a wet surface.
+0303-2,No
+0303-3,No
+0303-7,D
+0304-0,The person initially writes on two pieces of paper.
+0304-1,The person starts writing on two sheets of paper.
+0304-2,Yes
+0304-3,Yes
+0304-7,A
+0308-0,A plane is on a ship near the ocean.
+0308-1,A jet is taking off from an aircraft carrier.
+0308-2,No
+0308-3,No
+0308-7,A
+0313-0,Seven
+0313-1,Seven
+0313-2,No
+0313-3,No
+0313-7,D
+0319-0,The ball is in a wooden model of a tree.
+0319-1,The ball is positioned within a wooden model of a tree.
+0319-2,Yes
+0319-3,No
+0319-7,B
+0320-0,A man is doing a trick on a pole in the sand.
+0320-1,A man is doing a trick on a pole in the sand.
+0320-2,No
+0320-3,Yes
+0320-7,D
+0321-0,The group of people are making a heart shape with their hands in a circle.
+0321-1,The people in the group are making a heart shape with their hands in a circle.
+0321-2,Yes
+0321-3,No
+0321-7,D
+0325-0,The rider performs flips and jumps in the air while crossing obstacles 17 times.
+0325-1,The rider performs a flip basket and a jump.
+0325-2,No
+0325-3,Yes
+0325-7,C
+0334-0,The scene with a man holding a cup of coffee in front of a sunset is not taken in real life.
+0334-1,The video depicts a person holding various objects in front of different locations.
+0334-2,Yes
+0334-3,Yes
+0334-7,D
+0340-0,"Based on the video description, there are two drainage channels:
+
+1.  **The main dam/wall:** The core structure built with blocks and cement, which includes the channels for water release.
+2.  **The side channel:** A channel dug along the side of the hill, used for diverting water."
+0340-1,"The video shows three drainage channels:
+
+1.  **The primary dam-like structure built with blocks and cement.** This is the main channel for diverting water.
+2.  **The three-tiered structure created with blocks and cement** which has three openings for water release.
+3.  **The channel carved into the side of a hill** used for water release."
+0340-2,"Based on the descriptions of the video frames, yes, it appears there are four drainage channels visible. The text mentions the construction includes “three main drainage channels” and “a fourth channel.”"
+0340-3,"Based on the video descriptions, yes, there are five drainage channels shown. The video describes the construction of a dam using blocks and cement, including a channel for water release."
+0340-7,A
+0357-0,There is a man that is sitting at a table with a bowl of blue frosting.
+0357-1,There is a man that is sitting at a table with a bowl of blue frosting.
+0357-2,No
+0357-3,No
+0357-7,C
+0358-0,The woman in white remained upright on the trampoline due to the presence of a safety net.
+0358-1,"The woman in white was supported by a man with a large, padded device."
+0358-2,Yes
+0358-3,No.
+0358-7,A
+0368-0,The man showed ten scenarios between the adult and the toddler.
+0368-1,The man demonstrated 27 different scenarios.
+0368-2,Yes
+0368-3,Yes
+0368-7,D
+0370-0,Zero.
+0370-1,Zero.
+0370-2,No
+0370-3,No
+0370-7,B
+0372-0,The woman is playing basketball on a basketball court.
+0372-1,The woman is playing basketball on a basketball court.
+0372-2,Yes
+0372-3,No
+0372-7,D
+0374-0,A man held a red ball in front of a mirror.
+0374-1,A man held a red ball in front of a mirror.
+0374-2,Yes
+0374-3,No
+0374-7,B
+0377-0,A man is on the woman’s shoulder.
+0377-1,There is no one on the woman’s shoulder in the second segment of the video.
+0377-2,Yes
+0377-3,Yes
+0377-7,D
+0410-0,Several people are posing for a picture in front of a cake.
+0410-1,There are many people standing around a table with a bowl of cotton candy.
+0410-2,No
+0410-3,No
+0410-7,D
+0416-0,The man opened the cup and was surprised to find nothing inside.
+0416-1,He picks up an egg and then opens a cup to reveal nothing.
+0416-2,No
+0416-3,No
+0416-7,A
+0417-0,The man on the left is struggling to suppress laughter.
+0417-1,The man on the left is struggling not to laugh while standing with two other uniformed men.
+0417-2,Yes
+0417-3,No
+0417-7,A
+0420-0,"The cat was observed sitting on a red stool next to a doll, implying it was engaging in a game."
+0420-1,"The cat sat on a bed looking at the camera, implying a failed attempt at the ""which hand"" game."
+0420-2,No
+0420-3,No
+0420-7,C
+0427-0,The man cut the watermelon in half with a knife.
+0427-1,"The man used multiple watermelons to create the illusion of a single, cut watermelon."
+0427-2,No
+0427-3,No
+0427-7,B
+0430-0,A piece of paper was used to cut a piece of paper.
+0430-1,A young boy is cutting a piece of paper at a table.
+0430-2,No
+0430-3,No
+0430-7,B
+0432-0,The targets originated from pink paint in the water.
+0432-1,The last targets are a target with pink paint and a man standing next to a woman.
+0432-2,No
+0432-3,Yes
+0432-7,B
+0435-0,The man is holding a pole with straw on it.
+0435-1,The man successfully hit the straw mat target with his sword.
+0435-2,No
+0435-3,No
+0435-7,B
+0439-0,The man lights a candle.
+0439-1,The man ignites a candle.
+0439-2,Yes
+0439-3,No
+0439-7,A
+0441-0,The muscular man is standing on a skateboard in the street.
+0441-1,The answer cannot be determined from the provided context.
+0441-2,No
+0441-3,No
+0441-7,D
+0452-0,The video depicts a person requesting Messi's left leg and Ronaldo's right leg.
+0452-1,The individual desires Messi’s left leg and Ronaldo’s right leg.
+0452-2,Yes
+0452-3,No
+0452-7,D
+0456-0,The man used a pair of nails in his hand.
+0456-1,The video does not contain information about the number of nails used.
+0456-2,No
+0456-3,No
+0456-7,D
+0463-0,A man throws a basketball ball.
+0463-1,The counter begins to count when the man is holding a basketball ball on a bridge.
+0463-2,No
+0463-3,No
+0463-7,B
+0466-0,Zero
+0466-1,The video does not contain any images featuring optical illusions.
+0466-2,No
+0466-3,No
+0466-7,C
+0468-0,The person in the video successfully walked down the stairs.
+0468-1,A person was standing on a large white swan in the water.
+0468-2,No
+0468-3,No.
+0468-7,D
+0494-0,Two.
+0494-1,Two.
+0494-2,No
+0494-3,No
+0494-7,C
+0500-0,Three
+0500-1,Three
+0500-2,Yes
+0500-3,Yes
+0500-7,D
+0501-0,The video does not depict a man holding dumplings.
+0501-1,There is no information about a man wearing purple or the number of dumplings on a plate.
+0501-2,No
+0501-3,No
+0501-7,B
+0512-0,Zero
+0512-1,zero
+0512-2,No
+0512-3,No
+0512-7,C
+0520-0,x
+0520-1,b
+0520-2,No
+0520-3,No
+0520-7,A
+0522-0,Eleven.
+0522-1,Eleven
+0522-2,Yes
+0522-3,Yes
+0522-7,D
+0525-0,Three
+0525-1,Three
+0525-2,No
+0525-3,Yes
+0525-7,B
+0526-0,Two
+0526-1,Two
+0526-2,No
+0526-3,No
+0526-7,B
+0530-0,frisbee
+0530-1,frisbee
+0530-2,No
+0530-3,No
+0530-7,C
+0539-0,zero
+0539-1,Zero
+0539-2,No
+0539-3,No
+0539-7,C
+0541-0,There are eight teeth in the video.
+0541-1,Two
+0541-2,No
+0541-3,No
+0541-7,B
+0542-0,Someone is eating a piece of bread with sauce in a bowl.
+0542-1,Someone is rolling out a dough on a wooden table in the woods.
+0542-2,Yes
+0542-3,Yes
+0542-7,D
+0548-0,A man is holding a fork in his mouth.
+0548-1,man holding a banana up to his head
+0548-2,No
+0548-3,No
+0548-7,D
+0551-0,The video does not contain information about switches on a wall.
+0551-1,The scene does not depict switches on the wall.
+0551-2,Yes
+0551-3,No
+0551-7,B
+0552-0,The video does not show a plate with bread.
+0552-1,There is no plate or bread slices in the video.
+0552-2,No
+0552-3,No
+0552-7,C
+0561-0,The man is wearing the watch seven times in the video.
+0561-1,The man's watch never appears in the video.
+0561-2,No
+0561-3,No
+0561-7,B
+0566-0,Someone is cleaning a plant with a brush.
+0566-1,A woman is cleaning a plant with a brush.
+0566-2,Yes
+0566-3,No
+0566-7,B
+0567-0,The video does not show any people with visible hair.
+0567-1,The video does not show a third individual.
+0567-2,No
+0567-3,No
+0567-7,D
+0571-0,The man is holding a black and white puzzle piece in his hands.
+0571-1,The video does not show a ring on any finger.
+0571-2,No
+0571-3,No
+0571-7,C
+0575-0,The little girl is wearing shoes on her feet.
+0575-1,The little girl is wearing shoes in the video.
+0575-2,No
+0575-3,No
+0575-7,B
+0576-0,The video does not show any girls using a belt.
+0576-1,The women are wearing tights.
+0576-2,No
+0576-3,No
+0576-7,A
+0578-0,Twenty-six
+0578-1,Thirty-two
+0578-2,No
+0578-3,No
+0578-7,B
+0580-0,The girl did not run before reaching the top.
+0580-1,The girl did not reach the top of the wall.
+0580-2,No
+0580-3,No
+0580-7,C
+0588-0,There are zero drawers on the table with the globe.
+0588-1,Zero
+0588-2,No
+0588-3,No
+0588-7,C
+0589-0,"No, the person in the video did not eat all the chocolate in six hours."
+0589-1,"No, the individual did not consume all the chocolate within a six-hour period."
+0589-2,No
+0589-3,Yes
+0589-7,C
+0590-0,A man is riding a skateboard down the stairs.
+0590-1,He is jumping into a bathroom.
+0590-2,No
+0590-3,No
+0590-7,D
+0595-0,A soccer ball.
+0595-1,A boy used a soccer ball and a tennis ball.
+0595-2,No
+0595-3,No
+0595-7,D
+0597-0,A man is holding the camera in the video.
+0597-1,There is no information about the person operating the camera in the video.
+0597-2,No
+0597-3,No
+0597-7,B
+0600-0,The orange ball did not hit any part of a boy in the video.
+0600-1,The orange ball made contact with a man laying on the ground.
+0600-2,No
+0600-3,No
+0600-7,C
+0603-0,There is no information about a person failing or losing a heart-shaped pattern in the video.
+0603-1,There is a man standing on a soccer field with a soccer ball.
+0603-2,No
+0603-3,No
+0603-7,D
+0607-0,The man is jumping in the air in the living room.
+0607-1,The man is performing handstand tricks in a living room.
+0607-2,No
+0607-3,No
+0607-7,B
+0609-0,The video uses a red apple to determine who should be eliminated.
+0609-1,The elimination is decided by a game where the players are judged by a red apple.
+0609-2,No
+0609-3,No
+0609-7,C
+0610-0,The woman threw the package out of the window to create a view of a person walking in a field through a window.
+0610-1,The woman tossed the package out of the window after writing on it.
+0610-2,No
+0610-3,No
+0610-7,C
+0612-0,The person divides the paper into two parts to draw pictures of men and women.
+0612-1,"Someone is drawing a series of pictures depicting men with various items, including hats, jackets, and food, suggesting a visual narrative or sequence."
+0612-2,No
+0612-3,No
+0612-7,C
+0614-0,The man is trembling with fear as he attempts to find a place to hide.
+0614-1,The man’s trembling hands suggest a deep-seated anxiety and a desperate need for connection.
+0614-2,No
+0614-3,Yes
+0614-7,C
+0616-0,Red
+0616-1,A pool ball crosses the finish line first in the video.
+0616-2,No
+0616-3,No
+0616-7,B
+0620-0,The man is standing in a handstand in a living room.
+0620-1,The man is performing handstand tricks and jumping in the air within a living room setting.
+0620-2,No
+0620-3,No
+0620-7,B
+0621-0,The person in the video is leaning against the wall with their right foot first.
+0621-1,The person places their foot against the wall first.
+0621-2,No
+0621-3,No
+0621-7,C
+0625-0,The black mouse moves towards the purple light.
+0625-1,The second ball does not move.
+0625-2,No
+0625-3,No
+0625-7,C
+0627-0,The woman is changing her position in the video.
+0627-1,A person changed the position of the cardboard dragon.
+0627-2,No
+0627-3,No
+0627-7,A
+0633-0,The wheels of the black car turn in a clockwise direction at the end of the video.
+0633-1,The wheels of the black car rotate clockwise at the conclusion of the video.
+0633-2,Yes
+0633-3,No
+0633-7,B
+0643-0,The wind is blowing towards the flag pole.
+0643-1,The wind direction can be inferred from the way the flags are waving.
+0643-2,Yes
+0643-3,Yes
+0643-7,B
+0645-0,The left end of the scarf worn by the student character is located near the Christmas tree.
+0645-1,The left end of the scarf ends up on the student character's left side in the living room.
+0645-2,No
+0645-3,Yes
+0645-7,B
+0652-0,The car continued driving down the road.
+0652-1,The car ended up driving down the road.
+0652-2,No
+0652-3,No
+0652-7,C
+0655-0,The camera is faster than the truck.
+0655-1,The truck moves faster than the camera.
+0655-2,No
+0655-3,No
+0655-7,C
+0658-0,Two people are riding skateboards on a ramp.
+0658-1,The man on the skateboard is quicker in the race.
+0658-2,No
+0658-3,No
+0658-7,B
+0664-0,27
+0664-1,7
+0664-2,Yes
+0664-3,Yes
+0664-7,9
+0667-0,Seven
+0667-1,Eleven
+0667-2,No
+0667-3,No
+0667-7,C
+0670-0,Six
+0670-1,Three
+0670-2,No
+0670-3,No
+0670-7,C
+0673-0,Zero
+0673-1,Zero
+0673-2,No
+0673-3,No
+0673-7,B
+0675-0,they are two men holding a pen and posing for a picture
+0675-1,they are two men standing in a room talking and pointing
+0675-2,No
+0675-3,No
+0675-7,C
+0679-0,The lady in the white tank top vest appears content.
+0679-1,The woman in the white tank top is calmly sitting at the bar with a drink in her hand.
+0679-2,No
+0679-3,No
+0679-7,A
+0689-0,"The man in the purple T-shirt captured a photo of himself with his cell phone, likely to share it as a personalized wallpaper."
+0689-1,The man in the purple T-shirt took a picture of himself with his cell phone to create a self-portrait.
+0689-2,No.
+0689-3,No.
+0689-7,D
+0690-0,The child is lying on the ground due to exhaustion after attempting to climb the tree.
+0690-1,The child is on the floor attempting to retrieve a dropped toy.
+0690-2,Yes
+0690-3,No.
+0690-7,A
+0695-0,Two people are standing with cups.
+0695-1,Two people are standing in front of a table with cups.
+0695-2,No
+0695-3,No
+0695-7,D
+0706-0,The man is attempting to overcome his embarrassment by engaging in a series of increasingly active beach activities.
+0706-1,The man is attempting to recover from embarrassment by engaging in various recreational activities on the beach.
+0706-2,No
+0706-3,No
+0706-7,B
+0707-0,The man is recording a video while engaging in various recreational activities in the park.
+0707-1,The person runs towards the camera to capture the moment of throwing a frisbee.
+0707-2,No.
+0707-3,No.
+0707-7,C
+0708-0,The cat is sitting on a toilet.
+0708-1,The cat is sitting on the toilet in the bathroom.
+0708-2,No
+0708-3,No
+0708-7,C
+0721-0,A man holding a model airplane on his head in front of a plane.
+0721-1,A man is holding a model airplane on his head in front of a plane.
+0721-2,No
+0721-3,Yes
+0721-7,C
+0723-0,"The woman is building a cardboard dragon, which appears active due to the process of creation."
+0723-1,The illusion creates the impression of movement through a cardboard dragon.
+0723-2,No.
+0723-3,No.
+0723-7,D
+0724-0,A person is handing a banknote to a child.
+0724-1,"The video shows a man repeatedly holding a pen and a dollar bill, suggesting a manipulation or demonstration of folding the banknote."
+0724-2,No
+0724-3,No
+0724-7,C
+0725-0,Someone is pouring the liquid into a glass.
+0725-1,A man pours orange juice into a plastic bottle.
+0725-2,Yes
+0725-3,Yes
+0725-7,C
+0729-0,The black strips appear to be the shortest in the video.
+0729-1,Black
+0729-2,No
+0729-3,No
+0729-7,B
+0731-0,The old man's nose appears as a bird.
+0731-1,The old man’s nose represents a flower.
+0731-2,Yes
+0731-3,Yes
+0731-7,C
+0735-0,The artboard scenery transitioned through a series of rapid image overlays and digital manipulations.
+0735-1,The scenery appears on the artboard in the second part of the video through the application of a digital painting technique.
+0735-2,No.
+0735-3,No
+0735-7,B
+0738-0,The man filmed a sunset over the ocean with a plane flying in the sky.
+0738-1,"The man captured a sunset over the ocean, creating an illusion of light in the sky."
+0738-2,No.
+0738-3,No.
+0738-7,A
+0740-0,8 divided by 2 is 4.
+0740-1,8 divided by 2 is 4.
+0740-2,Yes
+0740-3,Yes
+0740-7,A
+0742-0,5x equals 90.
+0742-1,"The problem involves adding the angles of a triangle to equal 90 degrees, resulting in 5x = 90."
+0742-2,No
+0742-3,No
+0742-7,B
+0743-0,3 + 3
+0743-1,3 + 3
+0743-2,No
+0743-3,No
+0743-7,C
+0749-0,A boy and boy laying on the floor with a fan.
+0749-1,Liquid and small solids.
+0749-2,No
+0749-3,No
+0749-7,A
+0755-0,Green cloth
+0755-1,The video depicts a woman kneeling with a bucket of green cloth.
+0755-2,No
+0755-3,No
+0755-7,B
+0757-0,The boy in the red shirt is kicking with his right foot in the pit.
+0757-1,The boy wearing a red shirt is kicking a soccer ball with his right foot inside the pit.
+0757-2,No
+0757-3,No
+0757-7,B
+0762-0,A raft.
+0762-1,A raft was used to make the second boat.
+0762-2,No
+0762-3,No
+0762-7,A
+0763-0,The canned Coke that is still in the picture.
+0763-1,The genuine can of Coke is the one left in the image.
+0763-2,No
+0763-3,No
+0763-7,D
+0766-0,The archer is holding a bow in her hand and is sitting on a chair.
+0766-1,The archer released the bow from both shoulders.
+0766-2,No.
+0766-3,No.
+0766-7,D
+0777-0,The video depicts 2.5 years of trick shots.
+0777-1,The video depicts 2.5 years of trick shots.
+0777-2,Yes
+0777-3,Yes
+0777-7,D
+0779-0,"The video demonstrates an optical illusion where the viewer initially perceives a complex shape as composed of smaller blocks, but upon learning the secret, the simpler form becomes apparent."
+0779-1,"The video demonstrates a visual illusion involving the perception of three-dimensional shapes from two-dimensional objects, specifically a small orange object presented with numbers 63, 8, and 4."
+0779-2,Yes
+0779-3,No.
+0779-7,A
+0790-0,Rotate the transparent sheet to a 45-degree angle.
+0790-1,Rotate the lens to a 45-degree angle.
+0790-2,No
+0790-3,Yes
+0790-7,B
+0794-0,"The video depicts a cat as the subject of the phrase ""never trust your friend."""
+0794-1,"The video depicts a cat as the ""friend."""
+0794-2,No
+0794-3,No
+0794-7,C
+0803-0,Candles were burning in the video.
+0803-1,A candle is on fire in the video.
+0803-2,Yes
+0803-3,No
+0803-7,D
+0806-0,One.
+0806-1,Two
+0806-2,No
+0806-3,No
+0806-7,C
+0810-0,The sausage did not appear in any of the frames.
+0810-1,The sausage did not appear in the video.
+0810-2,No
+0810-3,No
+0810-7,C
+0812-0,The person never attempted to place the toy into a drawer.
+0812-1,The person never attempted to put the toy into a drawer.
+0812-2,No
+0812-3,No
+0812-7,B
+0816-0,The person held a glass of water.
+0816-1,The person held a liquid bottle over a person's face.
+0816-2,No
+0816-3,No
+0816-7,A
+0818-0,The little girl was holding a stuffed Mickey Mouse in her hand.
+0818-1,The little girl is holding a stuffed Mickey Mouse in her hand.
+0818-2,No.
+0818-3,No
+0818-7,D
+0827-0,There are two pandas in the video.
+0827-1,Two
+0827-2,Yes
+0827-3,No
+0827-7,B
+0833-0,"The fourth segment shows a close-up of a hand holding a small, brightly colored toy."
+0833-1,I cannot answer this question because the video context is missing.
+0833-2,No
+0833-3,No
+0833-7,D
+0835-0,The woman is getting her teeth examined by a dentist.
+0835-1,A dentist is examining her teeth.
+0835-2,No
+0835-3,No
+0835-7,C
+0841-0,The woman wiped her eye with the parrot in the first frame.
+0841-1,The woman used the parrot to wipe her left eye first in the video.
+0841-2,No
+0841-3,No
+0841-7,A
+0848-0,A cat is walking across the street.
+0848-1,The cat riding a skateboard is the actual one.
+0848-2,Yes
+0848-3,Yes
+0848-7,D
+0854-0,The operator initiates conversations to create a sense of fear and heighten the experience for the visitors.
+0854-1,The drop tower operator engages in idle conversation to induce fear and heighten the experience for the visitors.
+0854-2,Yes
+0854-3,Yes
+0854-7,C
+0857-0,"The woman in the video is imitating a carefree beach lifestyle with activities like surfing, frisbee, and kite flying."
+0857-1,"The woman is engaging in various beach activities including surfing, frisbee, and kite flying."
+0857-2,No
+0857-3,No
+0857-7,B
+0858-0,He initially sat on the right armrest.
+0858-1,He initially attempted to sit on the right armrest of the chair.
+0858-2,Yes
+0858-3,Yes
+0858-7,C
+0865-0,0
+0865-1,One
+0865-2,No
+0865-3,No
+0865-7,C
+0868-0,The tool is red.
+0868-1,The tool is yellow.
+0868-2,Yes
+0868-3,No
+0868-7,C
+0870-0,The man repeatedly requested assistance by holding signs that said “help me”.
+0870-1,"The man repeatedly requested assistance, indicating a need for help."
+0870-2,Yes
+0870-3,No
+0870-7,A
+0871-0,A skateboard is in the middle of the road.
+0871-1,A person is riding a skateboard in the center of the road.
+0871-2,No
+0871-3,No
+0871-7,B
+0872-0,to the right.
+0872-1,The man stood next to a man with a skateboard.
+0872-2,No
+0872-3,No
+0872-7,C
+0875-0,Zero
+0875-1,0
+0875-2,No
+0875-3,No
+0875-7,A
+0879-0,People standing on the same plane have a white object in their possession.
+0879-1,People on the same plane share a white object with a black background.
+0879-2,Yes
+0879-3,Yes
+0879-7,C
+0880-0,Someone is holding a small wooden star on a table.
+0880-1,The structure appears to transform into a paper boat.
+0880-2,Yes
+0880-3,Yes
+0880-7,C
+0886-0,The man is holding a large glass tube of water in a kitchen.
+0886-1,The man is not wearing a watch in the video.
+0886-2,No
+0886-3,No
+0886-7,B
+0895-0,A man is laying on the ground playing basketball.
+0895-1,A man lays on the ground playing basketball.
+0895-2,No
+0895-3,No
+0895-7,B
+0898-0,The man stood in the pool with a pillow.
+0898-1,The man moved the pillow from the bed to the pool.
+0898-2,Yes
+0898-3,Yes
+0898-7,D
+0901-0,The video depicts one green string held in the hands at the beginning.
+0901-1,Zero
+0901-2,No
+0901-3,No
+0901-7,C
+0905-0,Downhill
+0905-1,The ball is positioned on a decline.
+0905-2,No
+0905-3,No
+0905-7,C
+0907-0,The dog lands on a frisbee.
+0907-1,The dog lands in the yard.
+0907-2,No
+0907-3,Yes
+0907-7,B
+0910-0,The man is repeatedly building and burning things down.
+0910-1,The man repeatedly picks up the child to build it up and break it down.
+0910-2,No
+0910-3,No
+0910-7,B
+0914-0,The beer bottle is placed under the faucet to fill it with a beverage.
+0914-1,Someone is filling a bottle of beer from a machine.
+0914-2,No.
+0914-3,No
+0914-7,D
+0918-0,The man puts the soap in his right hand.
+0918-1,He places the soap into the box with his right hand.
+0918-2,No
+0918-3,No
+0918-7,D
+0919-0,The man creates the rainbow by throwing a rainbow ball into a toilet.
+0919-1,The man uses a light source to create the illusion of a rainbow.
+0919-2,No
+0919-3,API Error: 500
+0919-7,D
+0924-0,A blonde woman in a pink shirt is playing with a child.
+0924-1,A blue cup of water.
+0924-2,No
+0924-3,No.
+0924-7,D
+0926-0,A hand is pulling the thread.
+0926-1,A hand is holding a string with a light bulb in it.
+0926-2,Yes
+0926-3,Yes
+0926-7,B
+0927-0,The man in black holds the baby with both arms.
+0927-1,The man in black uses both arms to hold the child.
+0927-2,No
+0927-3,No
+0927-7,C
+0929-0,The little girls are repeatedly seen walking down the street with a statue and near a marina.
+0929-1,The little girl in the green dress and the little girl in the blue dress both walk with the statue.
+0929-2,No
+0929-3,No
+0929-7,D
+0933-0,The man in the costume lit the fire to surprise Sasha when she unexpectedly arrived.
+0933-1,The man in the costume initiated the fire to create a surprise reveal for Sasha.
+0933-2,No
+0933-3,No
+0933-7,B
+0939-0,Seven
+0939-1,Eleven
+0939-2,No
+0939-3,Yes
+0939-7,C
+0942-0,He is preparing food.
+0942-1,He meticulously prepares food for an unknown recipient.
+0942-2,No
+0942-3,No
+0942-7,B
+0946-0,The man touched the chicken’s foot when it stopped moving.
+0946-1,The man touched the chicken’s foot when it became still.
+0946-2,No
+0946-3,Yes
+0946-7,C
+0949-0,The boss appears in the video as one of the three people sitting on a bench in a room.
+0949-1,The company’s boss appears in the scenes where three people are sitting on a bench in a room.
+0949-2,Yes
+0949-3,Yes
+0949-7,C
+0950-0,The man uses a hammer to make a wooden beam.
+0950-1,The ping-pong ball bounces around when the tuning fork resonates.
+0950-2,No
+0950-3,Yes
+0950-7,C
+0952-0,The video does not contain information about the color of anyone's clothing.
+0952-1,The third individual is wearing a blue ski suit.
+0952-2,No
+0952-3,No
+0952-7,C
+0956-0,"Based on the provided descriptions, the red stick is consistently described as a ""green screen"" which implies it is pointing to the left."
+0956-1,"Based on the provided descriptions, there is no mention of a red stick rotating. The descriptions primarily focus on various objects and people, including a man, a boat, a robot, and other items."
+0956-2,"I'm sorry, I cannot answer this question. The provided text only describes the content of the images, but it does not include information about the rotation of any objects within those images."
+0956-3,"I am sorry, I cannot answer this question. The provided text describes the frames of a video and does not include information about the direction of rotation of any object."
+0956-7,"Based on the provided descriptions, the red stick appears to be a part of a toy boat. The descriptions don't provide information about the rotation direction of the stick. Therefore, it’s impossible to answer this question with the given information."
+0957-0,"The video shows a series of actions involving liquids and objects. Initially, there's a beaker with liquid, then the liquid is poured, spread, cut, peeled, and eventually ends up in various scenarios like a cat swimming or being cleaned with gloves. The exact sequence of events leading to the final state isn't clearly demonstrated but appears to involve pouring, spreading, and manipulation of the liquid."
+0957-1,"The video shows a series of actions involving liquids, powders, and objects. It's difficult to pinpoint a single process that *led* to the transfer of a substance to a rod. Instead, the video presents a sequence of actions, including:
+
+*   **Pouring:** Liquids are poured into beakers.
+*   **Scooping:** Powders are scooped from containers.
+*   **Removing:** Substances are removed from beakers using various tools (spoons, hands, etc.)
+*   **Floating:** Substances float on water.
+
+There isn't a linear ""process"" where something is transferred to a rod. The video demonstrates a collection of isolated events."
+0957-2,"No, based on the provided descriptions, the substance was not pulled out and wrapped around a rod. The descriptions consistently depict actions like ""someone is removing a piece of white substance from a black surface,"" ""someone is cutting a piece of ice with a knife on a table,"" and ""someone is putting a piece of paper in their hand."" These actions don't involve any interaction with a rod or any other elongated object."
+0957-3,"Based on the provided text snippets, it's impossible to definitively answer whether the substance adhered to the rod. The text describes a series of actions involving beakers, liquids, and objects being manipulated. There's no indication of a rod or any process where a substance would adhere to it. The descriptions focus on pouring, cleaning, and observing."
+0957-7,C
+0973-0,"At 8.00s, the man holding balloons was bouncing back from something that hurt him."
+0973-1,They were bouncing back from balloons at t=18.00s.
+0973-2,No
+0973-3,Yes
+0973-7,C
+0974-0,The person in the video handed a drink to a woman at t=12.00s.
+0974-1,The person hands a drink to a woman at t=12.00s.
+0974-2,No
+0974-3,Yes
+0974-7,B
+0976-0,BLIP
+0976-1,The first person to respond to the question in the initial scene of the video is BLIP.
+0976-2,"Based on the provided transcript, it's difficult to definitively say whether the person on the left is the first to answer in the first scene. The transcript focuses on the BLIP's responses, not the human's. The BLIP provides descriptions of the scene, and the human initiates the question. Therefore, we don't know who answered first."
+0976-3,"No, based on the provided descriptions, the person on the right is not the first to answer in the first scene. The descriptions consistently depict two people standing together, often around a table with various objects (cupcakes, cakes, etc.). There's no indication of a specific order of answering or who initiated the observation in the initial scene."
+0976-7,C
+0983-0,A girl appears in the video while the man is painting a balloon.
+0983-1,A girl appears in the video while the man is painting a wall.
+0983-2,No
+0983-3,Yes
+0983-7,C
+0985-0,The video does not indicate whether the money in the cup at the end of the video comes from the money in the cup at the beginning of the video.
+0985-1,"No, the number of people at the table changes from two to three."
+0985-2,No
+0985-3,No
+0985-7,B
+0995-0,"The eighth question in the video states: ""What is the answer to the eighth question in the video?"". The video describes two people standing in front of a table with a cake on it."
+0995-1,"The eighth question in the video describes two people standing in front of a table with a sign that says ""can you solve this?""."
+0995-2,"The video describes a scenario with two people standing around a table with various items – cakes, cupcakes, cell phones, etc. The repeated phrase ""can you solve this?"" suggests a puzzle or challenge is being presented. The final description reiterates the core situation: two people at a table, with a sign saying ""can you solve this?"".
+
+Therefore, the question ""Is the answer to the eighth question in the video 'long over due'?"" is completely irrelevant to the video's content. It's a nonsensical question based on a misunderstanding of the situation being presented."
+0995-3,"Based on the provided transcript, the answer to the eighth question is ""up to no good?""."
+0995-7,"Based on the provided transcript, the eighth question in the video is: ""What is the answer to the eighth question in the video?""
+
+The transcript reveals the answer is: ""Up to no good"" (C)."
+0996-0,Black object
+0996-1,A clock.
+0996-2,Yes
+0996-3,Yes
+0996-7,B
+0999-0,He is running in the woods.
+0999-1,A man is standing in the grass with a frisbee.
+0999-2,No
+0999-3,No
+0999-7,B
+1002-0,The man catches the stick.
+1002-1,The man uses his reflexes to catch the stick.
+1002-2,No.
+1002-3,No
+1002-7,C
+1009-0,The man stands in front of a wall with paintings.
+1009-1,The man stands in front of a wall with paintings.
+1009-2,No
+1009-3,No
+1009-7,B
+1011-0,She was washing a kitchen counter.
+1011-1,She is holding a blue cake.
+1011-2,No
+1011-3,No
+1011-7,C
+1018-0,The rapper continues to stand on a box with a bat in his hand.
+1018-1,The rapper remained standing on a box holding a sword.
+1018-2,No
+1018-3,No
+1018-7,D
+1020-0,The baby initially displays curiosity observing both the man and woman holding them.
+1020-1,The baby looks at a man holding a baby.
+1020-2,No
+1020-3,No
+1020-7,C
+1023-0,The man stands in front of a wall with paintings.
+1023-1,The man stood in front of a wall with paintings.
+1023-2,No
+1023-3,No
+1023-7,A
+1031-0,The man is experiencing a moment of relaxed enjoyment while eating a banana.
+1031-1,The man in the white shirt appears content while eating a banana.
+1031-2,Yes
+1031-3,No
+1031-7,D
+1037-0,The man makes an OK gesture at the end of the video while holding a watermelon.
+1037-1,He is holding a watermelon with candy canes sticking out of it.
+1037-2,No
+1037-3,No
+1037-7,D
+1044-0,He is playing video games on the bed with other people.
+1044-1,The person under the quilt is laying on a couch with headphones on.
+1044-2,No
+1044-3,Yes
+1044-7,D
+1045-0,The person hugs the individual in the tie-dye hoodie to guess which item is in the video.
+1045-1,The person embraces the individual in the tie-dye hoodie to guess which item is present.
+1045-2,No.
+1045-3,No.
+1045-7,A
+1046-0,The man in the black hat initiated a physical altercation with the person in the gray T-shirt culminating in a plunge into the swimming pool.
+1046-1,Frustration with an earlier activity led to an impulsive entry into the pool.
+1046-2,No.
+1046-3,No
+1046-7,C
+1049-0,The man is holding a knife while laying in bed.
+1049-1,There is a man laying in bed with a knife in his hand.
+1049-2,No
+1049-3,No
+1049-7,C
+1051-0,The man in black expresses frustration and pain when he takes a photo.
+1051-1,The man is experiencing distress and possibly regret over his situation.
+1051-2,No
+1051-3,No
+1051-7,B
+1053-0,The man in the black T-shirt wants to express his disagreement with the repeated assertions that he is a man.
+1053-1,The man in the black T-shirt is attempting to reassure himself and others that everything is okay.
+1053-2,No.
+1053-3,No.
+1053-7,B
+1055-0,The video depicts a chaotic sequence involving a smoothie-making mishap and a subsequent massage.
+1055-1,The video depicts a series of chaotic events involving a man and a woman making smoothies and receiving massages.
+1055-2,No
+1055-3,Yes
+1055-7,C
+1064-0,He is running down a street with a baseball glove.
+1064-1,A fire hydrant explodes into the ground.
+1064-2,No
+1064-3,No
+1064-7,B
+1075-0,The video splices together shots of an ordinary man and Spider-Man to create a montage.
+1075-1,The video juxtaposes an ordinary man with a Spider-Man suit to create a montage.
+1075-2,Yes
+1075-3,Yes
+1075-7,D
+1080-0,"The man repeatedly peels and cuts carrots in a kitchen, seemingly fascinated by the process."
+1080-1,He meticulously prepares carrots for a culinary endeavor.
+1080-2,No
+1080-3,Yes
+1080-7,C
+1081-0,The little green brick represents a Lego monster with golden teeth.
+1081-1,"The small green brick represents the Brick Mimic, who requires a daily oral hygiene regimen."
+1081-2,No
+1081-3,No
+1081-7,B
+1087-0,The circle on the left is moving in the same direction as the arrows.
+1087-1,The circle on the left appears to move in the same direction as the arrows.
+1087-2,Yes
+1087-3,No
+1087-7,C
+1090-0,The man created a lead-like figure on the ground that fooled a flock of sheep into following it.
+1090-1,The painting on the ground appears to mislead the sheep into moving to the right.
+1090-2,Yes
+1090-3,No
+1090-7,D
+1091-0,Two people are identified in the last video.
+1091-1,A woman is visible sitting on a bench reading a book.
+1091-2,Yes
+1091-3,Yes
+1091-7,D
+1095-0,The person in the upper left corner is shown squatting down on a train track.
+1095-1,The person threw a small stone into the keg to create a reaction.
+1095-2,No.
+1095-3,No
+1095-7,D
+1101-0,The man submerged the paper to create an illusion of a floating image.
+1101-1,The man was attempting to photograph a floating paper.
+1101-2,No.
+1101-3,Yes
+1101-7,D
+1111-0,The video depicts people sitting on a bench and standing on a beach.
+1111-1,The video depicts people standing and sitting on a beach with a sign that says “vibes in chennai.”
+1111-2,No
+1111-3,No
+1111-7,D
+1112-0,A man took the firework instead of the lighter.
+1112-1,A man cautiously approached to check if the firework was still under the bucket.
+1112-2,No
+1112-3,Yes
+1112-7,B
+1117-0,A man spilled water from a glass.
+1117-1,A man was losing a challenge when the water overflowed.
+1117-2,No
+1117-3,No
+1117-7,B
+1119-0,The iron bowl is not present in the video.
+1119-1,The person in red is taking a picture of a dog and a cat on a cell phone.
+1119-2,No
+1119-3,No
+1119-7,C
+1121-0,The filament light bulb is closest to the fire.
+1121-1,There is no filament light bulb on the control panel.
+1121-2,Yes
+1121-3,No.
+1121-7,B
+1122-0,The man in overalls holding a large wooden spatula is lying on the floor.
+1122-1,He is standing in a pile of wires.
+1122-2,Yes
+1122-3,Yes
+1122-7,D
+1124-0,The egg is on the table.
+1124-1,The question cannot be answered from the provided video clips.
+1124-2,No
+1124-3,No
+1124-7,C
+1127-0,The camera shows the man throwing a basketball into a hoop in front of a house.
+1127-1,The man is throwing a basketball into a hoop in front of a house.
+1127-2,Yes
+1127-3,Yes
+1127-7,C
+1130-0,Green.
+1130-1,A green ball.
+1130-2,No
+1130-3,No
+1130-7,D
+1134-0,The ball moved into a hoop in front of a house.
+1134-1,The man threw a basketball into a hoop in front of a house.
+1134-2,No
+1134-3,No.
+1134-7,D
+1137-0,The man in white is facing left.
+1137-1,The man is looking toward the woman in the grassy field.
+1137-2,No
+1137-3,Yes
+1137-7,C
+1145-0,The woman looks at her phone twice approximately 24 seconds apart.
+1145-1,24.00s and 28.00s
+1145-2,Yes
+1145-3,Yes
+1145-7,B
+1159-0,A close up of two tubes of glue.
+1159-1,A close up of two tubes of glue on a white surface.
+1159-2,No.
+1159-3,Yes
+1159-7,C
+1160-0,A chunky and heavy piece of metal
+1160-1,A chunky and heavy piece of metal.
+1160-2,Yes
+1160-3,Yes
+1160-7,D
+1161-0,"red, green, blue, yellow"
+1161-1,"yellow, green, blue, red"
+1161-2,Yes
+1161-3,Yes
+1161-7,B
+1162-0,The video depicts a man using a cell phone on a table with a blurry background.
+1162-1,"punkt, tuv, save."
+1162-2,Yes
+1162-3,Yes
+1162-7,D
+1168-0,The man fell into a hole he was painting in the ground.
+1168-1,The man fell into the hole while attempting to create an artwork on the ground.
+1168-2,No.
+1168-3,No.
+1168-7,D
+1169-0,The man in black and white clothes was playing soccer with a football and kicked to pieces.
+1169-1,The man appeared shattered due to the rapid motion and impact of the soccer ball during the game.
+1169-2,No.
+1169-3,No.
+1169-7,C
+1170-0,The containers were being loaded onto the container ship.
+1170-1,The containers were loaded onto the ship.
+1170-2,No.
+1170-3,No.
+1170-7,D
+1173-0,The person in the back seat disappeared due to the car swerving to avoid a collision.
+1173-1,The person in the back seat disappeared due to the car accelerating rapidly over a bump.
+1173-2,No
+1173-3,No
+1173-7,A
+1175-0,A man is riding a skateboard next to the bear that is sitting on the street.
+1175-1,Panning is used to make the bear on the ground appear to move in the video.
+1175-2,No.
+1175-3,No.
+1175-7,B
+1176-0,The man’s plant grew larger within a massive greenhouse environment.
+1176-1,The man’s narration indicated a visual illusion created by the greenhouse’s interior size.
+1176-2,Yes.
+1176-3,Yes.
+1176-7,A
+1177-0,The man took a small boat into the water.
+1177-1,The man appeared on a different boat through editing.
+1177-2,No.
+1177-3,No.
+1177-7,B
+1178-0,A person is holding a laptop near a table in the final scene.
+1178-1,A person is holding a laptop near a table.
+1178-2,No
+1178-3,Yes
+1178-7,C
+1181-0,The Colosseum was depicted in a painting.
+1181-1,"The man painted a picture of the Colosseum, leading to its disappearance from subsequent frames."
+1181-2,No.
+1181-3,Yes
+1181-7,B
+1182-0,The man is creating an illusion of a ladder beneath the clouds through staged photography.
+1182-1,The ladder appears beneath the clouds as a man stands on it and extends it in front of the cloud.
+1182-2,Yes
+1182-3,Yes
+1182-7,C
+1183-0,The video does not provide information about the sky darkening.
+1183-1,"The man is holding a glowing ball, implying a light source."
+1183-2,No
+1183-3,No.
+1183-7,A
+1192-0,A fake animal made of grass appeared in the yard.
+1192-1,The man created a fake animal made of grass.
+1192-2,No.
+1192-3,No.
+1192-7,C
+1203-0,The question cannot be answered because there is no man in the video.
+1203-1,The video does not show a man removing a towel without it touching the water stream.
+1203-2,No
+1203-3,No
+1203-7,B
+1206-0,The blue paint is spilling due to the man intentionally pouring it onto his face and a cup.
+1206-1,Orbeez are causing the blue paint to appear as if it's spilling in an unusual direction.
+1206-2,Yes
+1206-3,Yes
+1206-7,A
+1209-0,The woman is running through the leaves in the rain.
+1209-1,A man is running through the mud with a jacket on.
+1209-2,Yes
+1209-3,No.
+1209-7,A
+1210-0,The video shifts its focus from a group of people to a detailed depiction of birds on a branch.
+1210-1,The focus shifts from a group of two people to a woman examining a black and white photograph of birds.
+1210-2,Yes
+1210-3,Yes
+1210-7,B
+1214-0,The shot depicts a woman lying on the ground with her head on a skateboard.
+1214-1,The camera captures a man laying on the ground with his head on a skateboard.
+1214-2,No
+1214-3,No
+1214-7,A
+1223-0,The camera view shows a man sitting on a couch with pots and pans on the floor.
+1223-1,The camera angle appears to shift downward during the final throw.
+1223-2,Yes
+1223-3,No
+1223-7,D
+1225-0,A young boy is standing in front of a door.
+1225-1,A young boy is prominently seen when the camera finishes zooming in for the first time.
+1225-2,No
+1225-3,No
+1225-7,C
+1229-0,The chess piece appears fractured in the mirror due to the cracked surface.
+1229-1,The reflection introduces a distorted image of the chess piece due to the cracked surface.
+1229-2,No
+1229-3,No
+1229-7,D
+1231-0,The water appears to flow backward due to a perspective illusion created by the camera angle and the waterfall's flow.
+1231-1,The video creates an illusion of reverse flow through a rapid sequence of shots depicting the man’s movement relative to the waterfall.
+1231-2,No
+1231-3,No
+1231-7,C
+1233-0,The woman's reflection in the water creates a second image.
+1233-1,The reflection in the water displays a duplication of the person sitting on the ground.
+1233-2,Yes
+1233-3,No
+1233-7,C
+1235-0,The video indicates the answer to 4+3 is “two”.
+1235-1,"The video depicts a man with a question mark, suggesting a mathematical problem."
+1235-2,No
+1235-3,No
+1235-7,A
+1236-0,The video depicts someone writing a math trick on a sheet of paper.
+1236-1,"The video depicts someone writing a math trick on paper, but does not demonstrate a calculation result."
+1236-2,No
+1236-3,No
+1236-7,C
+1237-0,The video does not provide the answer to the equation 9+9.
+1237-1,63
+1237-2,No
+1237-3,No
+1237-7,A
+1239-0,"The video depicts two men standing before a whiteboard with numbers, suggesting a potentially mathematical or calculation-based activity."
+1239-1,"The video depicts two men standing before a whiteboard with numbers, suggesting a potential mathematical demonstration."
+1239-2,No
+1239-3,No
+1239-7,D
+1242-0,There was a red apple on the table.
+1242-1,"The video depicts two people sitting at a table with various objects, including a coffee cup, laptop, cell phone, and apple, but it does not show the outcome of a magic trick."
+1242-2,No
+1242-3,Yes
+1242-7,A
+1255-0,Red
+1255-1,Red
+1255-2,No
+1255-3,No
+1255-7,D
+1260-0,The man in white is looking at a plate of food.
+1260-1,The man in white is sitting on a couch with a plate of food.
+1260-2,No
+1260-3,No
+1260-7,A
+1261-0,reflection creates an illusion of multiple people in a single location.
+1261-1,A man and woman are holding a mirror in a field.
+1261-2,Yes
+1261-3,No
+1261-7,B
+1262-0,Fear.
+1262-1,The girl in the pink top appeared distressed and upset.
+1262-2,Yes
+1262-3,No
+1262-7,A
+1275-0,Several young men and boys are drinking from glasses.
+1275-1,There are a lot of people sitting at a table with a glass of water.
+1275-2,No
+1275-3,No
+1275-7,D
+1276-0,The video depicts a man wearing a crown and eating a lemon.
+1276-1,The man is wearing a crown and eating a lemon.
+1276-2,No
+1276-3,No
+1276-7,D
+1278-0,The first try and 3 hours have a difference of 2 hours.
+1278-1,The video shows four attempts.
+1278-2,No
+1278-3,Yes
+1278-7,D
+1283-0,Several children are running on a track in a stadium.
+1283-1,Several children are running on a track in a stadium.
+1283-2,No
+1283-3,No
+1283-7,D
+1288-0,The blond man appears amused at the end of the video.
+1288-1,The blond man appears amused.
+1288-2,No
+1288-3,No
+1288-7,A
+1290-0,The man is smiling.
+1290-1,The man is smiling while holding a pillow.
+1290-2,No
+1290-3,Yes
+1290-7,C
+1293-0,The man was cutting an orange with a knife on a wooden table.
+1293-1,A man held a light painting in his hand.
+1293-2,No.
+1293-3,No
+1293-7,D
+1294-0,A man prepared a meal consisting of meat cooked on various grills within a hot air balloon.
+1294-1,The man cooked the meat on a grill.
+1294-2,Yes
+1294-3,No.
+1294-7,C
+1298-0,The man was playing frisbee instead of football.
+1298-1,The man was playing frisbee with other individuals in the yard.
+1298-2,No
+1298-3,No
+1298-7,C
+1299-0,The elevator door closed automatically.
+1299-1,The elevator door shut due to a sequence of events including the woman’s movement and likely the automated operation of the elevator system.
+1299-2,No
+1299-3,No
+1299-7,B
+1307-0,The tires are chasing each other down a grassy hill.
+1307-1,The tires miss the ramp and then line up for a simultaneous move.
+1307-2,Yes
+1307-3,No
+1307-7,B
+1308-0,"The Brahmos-II missile reaches seven times the speed of sound, significantly faster than a bullet."
+1308-1,The Brahmos-II missile increases its speed to seven times the speed of sound.
+1308-2,No
+1308-3,Yes
+1308-7,B
+1310-0,The man and woman kissing in a gym completed the game first.
+1310-1,The video depicts a series of people playing various sports in a gym.
+1310-2,No
+1310-3,No
+1310-7,B
+1312-0,The man is sitting on a treadie while sleeping.
+1312-1,The man was sitting on a treadie in a living room while sleeping.
+1312-2,No
+1312-3,Yes
+1312-7,B
+1318-0,The daughter appears content.
+1318-1,The daughter appears hopeful.
+1318-2,No
+1318-3,No
+1318-7,C
+1321-0,Joyful.
+1321-1,She appears content.
+1321-2,Yes
+1321-3,No
+1321-7,D
+1324-0,The man is sitting in a chair with a cat on his head.
+1324-1,The man is holding a white cat in front of a bookcase.
+1324-2,No
+1324-3,Yes
+1324-7,D
+1329-0,She is playing a game of Wii.
+1329-1,The woman is playing a game of Wii.
+1329-2,No
+1329-3,No
+1329-7,D
+1344-0,The child smiles after the injection as a woman holds the baby in her arms.
+1344-1,The baby is smiling after receiving the injection.
+1344-2,No
+1344-3,Yes
+1344-7,B
