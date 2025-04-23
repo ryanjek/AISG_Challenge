@@ -1,0 +1,658 @@
+{
+    "_a6lFCUYTA4": {
+        "_a6lFCUYTA4_frame_0.jpg": {
+            "caption": "OCR: athat o3auovajr 3onaro | BLIP: someone holding a bottle of orange juice in their hand",
+            "timestamp": 0.0
+        },
+        "_a6lFCUYTA4_frame_1.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone holding a bottle of water with a donut inside of it",
+            "timestamp": 2.0
+        },
+        "_a6lFCUYTA4_frame_2.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a bottle of water and a bag of food",
+            "timestamp": 4.0
+        },
+        "_a6lFCUYTA4_frame_3.jpg": {
+            "caption": "OCR: [None detected] | BLIP: people sitting at tables in a mcdonalds restaurant with a man on his phone",
+            "timestamp": 6.0
+        },
+        "_a6lFCUYTA4_frame_4.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a woman sitting at a table with a bottle of orange juice",
+            "timestamp": 8.0
+        },
+        "_a6lFCUYTA4_frame_5.jpg": {
+            "caption": "OCR: [None detected] | BLIP: people sitting at a table in a mcdonalds restaurant with a man holding a drink",
+            "timestamp": 10.0
+        },
+        "_a6lFCUYTA4_frame_6.jpg": {
+            "caption": "OCR: [None detected] | BLIP: people sitting at a table in a mcdonalds restaurant with a man handing a drink to a woman",
+            "timestamp": 12.0
+        },
+        "_a6lFCUYTA4_frame_7.jpg": {
+            "caption": "OCR: cron | BLIP: araffes sitting at a table with a man and woman in front of them",
+            "timestamp": 14.0
+        },
+        "_a6lFCUYTA4_frame_8.jpg": {
+            "caption": "OCR: [None detected] | BLIP: people sitting at a table in a mcdonalds restaurant with a man on the phone",
+            "timestamp": 16.0
+        }
+    },
+    "_hkdNurB1Fk": {
+        "_hkdNurB1Fk_frame_0.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: there is a man that is sitting in front of a television",
+            "timestamp": 0.0
+        },
+        "_hkdNurB1Fk_frame_1.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed woman on a fence with a red ball in her hand",
+            "timestamp": 2.0
+        },
+        "_hkdNurB1Fk_frame_2.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a man in a suit standing in front of a window with a sign that says when your superpower is common sense",
+            "timestamp": 4.0
+        },
+        "_hkdNurB1Fk_frame_3.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: there is a man standing in a cage with a frisbee",
+            "timestamp": 6.0
+        },
+        "_hkdNurB1Fk_frame_4.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit and tie standing in front of a fence",
+            "timestamp": 8.0
+        },
+        "_hkdNurB1Fk_frame_5.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man on a roof with a skateboard in the air",
+            "timestamp": 10.0
+        },
+        "_hkdNurB1Fk_frame_6.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a close up of a building with a car on top of it",
+            "timestamp": 12.0
+        },
+        "_hkdNurB1Fk_frame_7.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a close up of a building with a bunch of windows and a roof",
+            "timestamp": 14.0
+        },
+        "_hkdNurB1Fk_frame_8.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: someone is sitting on a bench with a cell phone in their hand",
+            "timestamp": 16.0
+        },
+        "_hkdNurB1Fk_frame_9.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a close up of a person in a suit and tie with a building in the background",
+            "timestamp": 18.0
+        },
+        "_hkdNurB1Fk_frame_10.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: someone is standing on a platform with a chain and a skateboard in the background",
+            "timestamp": 20.0
+        },
+        "_hkdNurB1Fk_frame_11.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a close up of a person wearing a hard hat with a caption",
+            "timestamp": 22.0
+        },
+        "_hkdNurB1Fk_frame_12.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: there is a man in a hard hat sitting in a chair",
+            "timestamp": 24.0
+        },
+        "_hkdNurB1Fk_frame_13.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: there is a man standing on a roof with a crane",
+            "timestamp": 26.0
+        },
+        "_hkdNurB1Fk_frame_14.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a yellow vest and a white shirt standing next to a man in a yellow vest",
+            "timestamp": 28.0
+        },
+        "_hkdNurB1Fk_frame_15.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit and tie standing next to a construction worker",
+            "timestamp": 30.0
+        },
+        "_hkdNurB1Fk_frame_16.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit and tie walking next to a construction worker",
+            "timestamp": 32.0
+        },
+        "_hkdNurB1Fk_frame_17.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a close up of a person in a suit and tie looking at a rock",
+            "timestamp": 34.0
+        },
+        "_hkdNurB1Fk_frame_18.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a close up of a person on a bench with a cat",
+            "timestamp": 36.0
+        },
+        "_hkdNurB1Fk_frame_19.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit sitting at a table with a view of a city",
+            "timestamp": 38.0
+        },
+        "_hkdNurB1Fk_frame_20.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit and tie sitting on a ledge with a city in the background",
+            "timestamp": 40.0
+        },
+        "_hkdNurB1Fk_frame_21.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit and tie standing on a roof",
+            "timestamp": 42.0
+        },
+        "_hkdNurB1Fk_frame_22.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit and tie standing on a balcony",
+            "timestamp": 44.0
+        },
+        "_hkdNurB1Fk_frame_23.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man in a suit looking out a window at a city",
+            "timestamp": 46.0
+        },
+        "_hkdNurB1Fk_frame_24.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man on a scaffold with a text that reads when your superpower is common sense",
+            "timestamp": 48.0
+        },
+        "_hkdNurB1Fk_frame_25.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: there is a picture of a person holding a bat on a table",
+            "timestamp": 50.0
+        },
+        "_hkdNurB1Fk_frame_26.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: arafed man on a skateboard in a warehouse with a caption that reads when your superpower is common sense",
+            "timestamp": 52.0
+        },
+        "_hkdNurB1Fk_frame_27.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: a close up of a person in a uniform holding a gun",
+            "timestamp": 54.0
+        },
+        "_hkdNurB1Fk_frame_28.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: there is a man that is walking down the street with a bag",
+            "timestamp": 56.0
+        },
+        "_hkdNurB1Fk_frame_29.jpg": {
+            "caption": "OCR: when your superpower is common sense | BLIP: someone is saying when your superpower is common sense",
+            "timestamp": 58.0
+        }
+    },
+    "_MXxJT8Mk4k": {
+        "_MXxJT8Mk4k_frame_0.jpg": {
+            "caption": "OCR: glove | BLIP: someone is cutting a plastic bag with a pair of scissors",
+            "timestamp": 0.0
+        },
+        "_MXxJT8Mk4k_frame_1.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a plastic bag with a toothbrush in it",
+            "timestamp": 2.0
+        },
+        "_MXxJT8Mk4k_frame_2.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a piece of yellow paper with a banana on it",
+            "timestamp": 4.0
+        },
+        "_MXxJT8Mk4k_frame_3.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a banana with a yellow leaf on it",
+            "timestamp": 6.0
+        },
+        "_MXxJT8Mk4k_frame_4.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is playing with a small toy on a table",
+            "timestamp": 8.0
+        },
+        "_MXxJT8Mk4k_frame_5.jpg": {
+            "caption": "OCR: [None detected] | BLIP: three eggs with numbers on them are sitting on a table",
+            "timestamp": 10.0
+        },
+        "_MXxJT8Mk4k_frame_6.jpg": {
+            "caption": "OCR: [None detected] | BLIP: three colorful balls with numbers on them sitting on a table",
+            "timestamp": 12.0
+        }
+    },
+    "_TrCxTyakH0": {
+        "_TrCxTyakH0_frame_0.jpg": {
+            "caption": "OCR: this is whywomens 4ne longerthantmen | BLIP: arafed man jumping into a pool with a knife in his hand",
+            "timestamp": 0.0
+        },
+        "_TrCxTyakH0_frame_1.jpg": {
+            "caption": "OCR: this is whywomens 4ne longerthantmen | BLIP: there is a man jumping into a pool with a knife",
+            "timestamp": 2.0
+        },
+        "_TrCxTyakH0_frame_2.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a white bird standing on the sidewalk next to a body of water",
+            "timestamp": 4.0
+        },
+        "_TrCxTyakH0_frame_3.jpg": {
+            "caption": "OCR: webneel.com | BLIP: araflane landing at sunset with a plane in the foreground",
+            "timestamp": 6.0
+        },
+        "_TrCxTyakH0_frame_4.jpg": {
+            "caption": "OCR: webneel.com | BLIP: araflane landing at sunset with a plane in the air",
+            "timestamp": 8.0
+        },
+        "_TrCxTyakH0_frame_5.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a ant that is standing on a rock with a stick",
+            "timestamp": 10.0
+        },
+        "_TrCxTyakH0_frame_6.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are two men standing on the beach holding their hands",
+            "timestamp": 12.0
+        },
+        "_TrCxTyakH0_frame_7.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are two men standing on the beach holding their hands",
+            "timestamp": 14.0
+        },
+        "_TrCxTyakH0_frame_8.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are many birds flying in the sky at sunset",
+            "timestamp": 16.0
+        },
+        "_TrCxTyakH0_frame_9.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed view of the statue of liberty at sunset",
+            "timestamp": 18.0
+        },
+        "_TrCxTyakH0_frame_10.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed view of the statue of liberty at sunset",
+            "timestamp": 20.0
+        }
+    },
+    "_tT2ldpZHek": {
+        "_tT2ldpZHek_frame_0.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man on a treadie in a bedroom with a bed",
+            "timestamp": 0.0
+        },
+        "_tT2ldpZHek_frame_1.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man on a treadie in a bedroom with a bed",
+            "timestamp": 2.0
+        },
+        "_tT2ldpZHek_frame_2.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man jumping on a treadmill in a room",
+            "timestamp": 4.0
+        },
+        "_tT2ldpZHek_frame_3.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man on a tread bike in a gym",
+            "timestamp": 6.0
+        },
+        "_tT2ldpZHek_frame_4.jpg": {
+            "caption": "OCR: ridingapush bike | BLIP: arafed man on a treadie with a white object in his hand",
+            "timestamp": 8.0
+        },
+        "_tT2ldpZHek_frame_5.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man sitting on a treadie in a room",
+            "timestamp": 10.0
+        },
+        "_tT2ldpZHek_frame_6.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man riding a tricycle on a tread machine",
+            "timestamp": 12.0
+        },
+        "_tT2ldpZHek_frame_7.jpg": {
+            "caption": "OCR: ridinga unicycle | BLIP: arafed man riding a unicycle on a tread",
+            "timestamp": 14.0
+        },
+        "_tT2ldpZHek_frame_8.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a man riding a bike on a tread in a room",
+            "timestamp": 16.0
+        },
+        "_tT2ldpZHek_frame_9.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man on a treadie in a living room",
+            "timestamp": 18.0
+        },
+        "_tT2ldpZHek_frame_10.jpg": {
+            "caption": "OCR: bouncing onaball | BLIP: arafed man on a treadie with a ball in his hand",
+            "timestamp": 20.0
+        },
+        "_tT2ldpZHek_frame_11.jpg": {
+            "caption": "OCR: changing a light bulb | BLIP: arafed man on a treadie in a living room with a ceiling fan",
+            "timestamp": 22.0
+        },
+        "_tT2ldpZHek_frame_12.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man running on a treadie in a living room",
+            "timestamp": 24.0
+        },
+        "_tT2ldpZHek_frame_13.jpg": {
+            "caption": "OCR: ironing | BLIP: arafing on a treadie with a man on it",
+            "timestamp": 26.0
+        },
+        "_tT2ldpZHek_frame_14.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man on a treadie in a room with a window",
+            "timestamp": 28.0
+        },
+        "_tT2ldpZHek_frame_15.jpg": {
+            "caption": "OCR: sitting | BLIP: arafed man sitting on a treadie in a living room",
+            "timestamp": 30.0
+        },
+        "_tT2ldpZHek_frame_16.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man sitting on a treadie in a living room",
+            "timestamp": 32.0
+        },
+        "_tT2ldpZHek_frame_17.jpg": {
+            "caption": "OCR: sleeping | BLIP: a close up of a bed with a blanket on top of it",
+            "timestamp": 34.0
+        },
+        "_tT2ldpZHek_frame_18.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a bed with a blanket on it in a room",
+            "timestamp": 36.0
+        },
+        "_tT2ldpZHek_frame_19.jpg": {
+            "caption": "OCR: changingadjaper | BLIP: arafed man on a treadie changing a diaper",
+            "timestamp": 38.0
+        },
+        "_tT2ldpZHek_frame_20.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man on a treadie with a dog on it",
+            "timestamp": 40.0
+        },
+        "_tT2ldpZHek_frame_21.jpg": {
+            "caption": "OCR: playing jenga | BLIP: arafed man sitting on a treadie in a living room",
+            "timestamp": 42.0
+        },
+        "_tT2ldpZHek_frame_22.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man on a treadie in a room with a window",
+            "timestamp": 44.0
+        },
+        "_tT2ldpZHek_frame_23.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed man running on a treadie in a room",
+            "timestamp": 46.0
+        }
+    },
+    "_tVCT7lNvM4": {
+        "_tVCT7lNvM4_frame_0.jpg": {
+            "caption": "OCR: the emotions keep pouring from the. tmj jaw adjustment | BLIP: there is a man sitting at a desk with a laptop computer",
+            "timestamp": 0.0
+        },
+        "_tVCT7lNvM4_frame_1.jpg": {
+            "caption": "OCR: the emotions keep pouring from the tmj jaw adjustment | BLIP: there is a man sitting at a desk with a laptop computer",
+            "timestamp": 2.0
+        },
+        "_tVCT7lNvM4_frame_2.jpg": {
+            "caption": "OCR: tonomic | BLIP: woman in blue scrubs talking on cell phone while sitting on bed",
+            "timestamp": 4.0
+        },
+        "_tVCT7lNvM4_frame_3.jpg": {
+            "caption": "OCR: omic ne | BLIP: arafed woman in blue scrubs talking on a cell phone",
+            "timestamp": 6.0
+        },
+        "_tVCT7lNvM4_frame_4.jpg": {
+            "caption": "OCR: nerves dr ra | BLIP: arafed woman getting her hair cut by a man in a black shirt",
+            "timestamp": 8.0
+        },
+        "_tVCT7lNvM4_frame_5.jpg": {
+            "caption": "OCR: erves | BLIP: arafed woman getting her hair cut by a man in a black shirt",
+            "timestamp": 10.0
+        },
+        "_tVCT7lNvM4_frame_6.jpg": {
+            "caption": "OCR: rahim | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 12.0
+        },
+        "_tVCT7lNvM4_frame_7.jpg": {
+            "caption": "OCR: rah.. | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 14.0
+        },
+        "_tVCT7lNvM4_frame_8.jpg": {
+            "caption": "OCR: ves iro | BLIP: arafed woman getting her hair cut by a hairdresser",
+            "timestamp": 16.0
+        },
+        "_tVCT7lNvM4_frame_9.jpg": {
+            "caption": "OCR: ic spinal nerves dr rahim | BLIP: arafed woman getting her hair cut by a male doctor",
+            "timestamp": 18.0
+        },
+        "_tVCT7lNvM4_frame_10.jpg": {
+            "caption": "OCR: nerves dr rahim | BLIP: arafed woman getting her hair done by a hairdresser",
+            "timestamp": 20.0
+        },
+        "_tVCT7lNvM4_frame_11.jpg": {
+            "caption": "OCR: dr rahim mic nervo | BLIP: arafed woman getting her hair cut by a hairdresser",
+            "timestamp": 22.0
+        },
+        "_tVCT7lNvM4_frame_12.jpg": {
+            "caption": "OCR: nerves dr rahim | BLIP: arafed woman getting her hair cut by a hairdresser",
+            "timestamp": 24.0
+        },
+        "_tVCT7lNvM4_frame_13.jpg": {
+            "caption": "OCR: nerves dr rahim | BLIP: arafed woman getting her hair cut by a hairdresser",
+            "timestamp": 26.0
+        },
+        "_tVCT7lNvM4_frame_14.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed woman in a hospital bed being examined by a doctor",
+            "timestamp": 28.0
+        },
+        "_tVCT7lNvM4_frame_15.jpg": {
+            "caption": "OCR: rss rab | BLIP: arafed woman in a hospital gown getting her hair cut by a hairdresser",
+            "timestamp": 30.0
+        },
+        "_tVCT7lNvM4_frame_16.jpg": {
+            "caption": "OCR: [None detected] | BLIP: arafed woman with a blue shirt holding a piece of paper",
+            "timestamp": 32.0
+        },
+        "_tVCT7lNvM4_frame_17.jpg": {
+            "caption": "OCR: nal nerves dr rahim | BLIP: arafed woman in a hospital gown is being examined by a doctor",
+            "timestamp": 34.0
+        },
+        "_tVCT7lNvM4_frame_18.jpg": {
+            "caption": "OCR: autonomic nerv | BLIP: arafed woman in a hospital gown looking at a cell phone",
+            "timestamp": 36.0
+        },
+        "_tVCT7lNvM4_frame_19.jpg": {
+            "caption": "OCR: autonomic ner sympathang < yelles | BLIP: there is a woman in a hospital gown holding a remote",
+            "timestamp": 38.0
+        },
+        "_tVCT7lNvM4_frame_20.jpg": {
+            "caption": "OCR: ves rsir | BLIP: arafed woman getting her hair cut by a hairdresser",
+            "timestamp": 40.0
+        },
+        "_tVCT7lNvM4_frame_21.jpg": {
+            "caption": "OCR: inal nerves | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 42.0
+        },
+        "_tVCT7lNvM4_frame_22.jpg": {
+            "caption": "OCR: \\i nirvis | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 44.0
+        },
+        "_tVCT7lNvM4_frame_23.jpg": {
+            "caption": "OCR: nal nerves auton | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 46.0
+        },
+        "_tVCT7lNvM4_frame_24.jpg": {
+            "caption": "OCR: nal nerves auton | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 48.0
+        },
+        "_tVCT7lNvM4_frame_25.jpg": {
+            "caption": "OCR: pinal nerves auton syepe | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 50.0
+        },
+        "_tVCT7lNvM4_frame_26.jpg": {
+            "caption": "OCR: al nerves autonon syupathene | BLIP: arafed woman getting her hair done by a hairdresser",
+            "timestamp": 52.0
+        },
+        "_tVCT7lNvM4_frame_27.jpg": {
+            "caption": "OCR: pinal nerves dr rahim auton | BLIP: arafed woman getting her teeth examined by a dentist",
+            "timestamp": 54.0
+        },
+        "_tVCT7lNvM4_frame_28.jpg": {
+            "caption": "OCR: nal nerves d. ata | BLIP: arafed woman in a hospital gown getting her hair cut by a male doctor",
+            "timestamp": 56.0
+        },
+        "_tVCT7lNvM4_frame_29.jpg": {
+            "caption": "OCR: nalmerves autund | BLIP: there is a woman standing in front of a mirror with a white shirt on",
+            "timestamp": 58.0
+        }
+    },
+    "_uSQXykxzT0": {
+        "_uSQXykxzT0_frame_0.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a bottle of water and pointing at it",
+            "timestamp": 0.0
+        },
+        "_uSQXykxzT0_frame_1.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a bottle of water and pointing at it",
+            "timestamp": 1.98
+        },
+        "_uSQXykxzT0_frame_2.jpg": {
+            "caption": "OCR: crystal | BLIP: someone is holding a yellow sign and pointing at a water bottle",
+            "timestamp": 3.96
+        },
+        "_uSQXykxzT0_frame_3.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a plastic bottle of water and a plastic ball",
+            "timestamp": 5.94
+        },
+        "_uSQXykxzT0_frame_4.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a bottle of water and pointing at a sticker",
+            "timestamp": 7.92
+        },
+        "_uSQXykxzT0_frame_5.jpg": {
+            "caption": "OCR: rysta | BLIP: someone is holding a bottle of water with a smiley face on it",
+            "timestamp": 9.9
+        },
+        "_uSQXykxzT0_frame_6.jpg": {
+            "caption": "OCR: crystal | BLIP: someone is holding a bottle of water and a pen in front of a man",
+            "timestamp": 11.88
+        },
+        "_uSQXykxzT0_frame_7.jpg": {
+            "caption": "OCR: rystaj | BLIP: someone is holding a bottle of water with a smiley face drawn on it",
+            "timestamp": 13.86
+        },
+        "_uSQXykxzT0_frame_8.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a man standing next to a table with a bottle of water",
+            "timestamp": 15.83
+        }
+    },
+    "-HAFFvsDCr4": {
+        "-HAFFvsDCr4_frame_0.jpg": {
+            "caption": "OCR: [None detected] | BLIP: people standing around a table with a ball on it in a room",
+            "timestamp": 0.0
+        },
+        "-HAFFvsDCr4_frame_1.jpg": {
+            "caption": "OCR: [None detected] | BLIP: people standing around a large blue table with a ball on it",
+            "timestamp": 2.0
+        },
+        "-HAFFvsDCr4_frame_2.jpg": {
+            "caption": "OCR: 5/6/7/) | BLIP: there is a large pile of straw sitting on the ground",
+            "timestamp": 4.0
+        },
+        "-HAFFvsDCr4_frame_3.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a sculpture of a horse made of straw on the ground",
+            "timestamp": 6.0
+        },
+        "-HAFFvsDCr4_frame_4.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are people standing around a table made of straw",
+            "timestamp": 8.0
+        },
+        "-HAFFvsDCr4_frame_5.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are three sculptures of lions made of cardboard in a building",
+            "timestamp": 10.0
+        },
+        "-HAFFvsDCr4_frame_6.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are a group of people dressed in costumes sitting at a table",
+            "timestamp": 12.0
+        },
+        "-HAFFvsDCr4_frame_7.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are people standing around a table with a large group of people",
+            "timestamp": 14.0
+        },
+        "-HAFFvsDCr4_frame_8.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are many people standing around a large blue table",
+            "timestamp": 16.0
+        },
+        "-HAFFvsDCr4_frame_9.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are people standing around a table with a bunch of fake animals",
+            "timestamp": 18.0
+        },
+        "-HAFFvsDCr4_frame_10.jpg": {
+            "caption": "OCR: [None detected] | BLIP: people standing in a large room with a ceiling full of windows",
+            "timestamp": 20.0
+        },
+        "-HAFFvsDCr4_frame_11.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a sculpture of a person made of straw and birds",
+            "timestamp": 22.0
+        },
+        "-HAFFvsDCr4_frame_12.jpg": {
+            "caption": "OCR: bro getting fired after that | BLIP: there is a table with a ball on it and people standing around",
+            "timestamp": 24.0
+        }
+    },
+    "-M7VdrQpWps": {
+        "-M7VdrQpWps_frame_0.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a string that is connected to a small device",
+            "timestamp": 0.0
+        },
+        "-M7VdrQpWps_frame_1.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a small needle in their hand over a small device",
+            "timestamp": 2.0
+        },
+        "-M7VdrQpWps_frame_2.jpg": {
+            "caption": "OCR: freq pwr | BLIP: a close up of a computer with a purple lightening effect",
+            "timestamp": 4.0
+        },
+        "-M7VdrQpWps_frame_3.jpg": {
+            "caption": "OCR: -req pwr | BLIP: a close up of a record player with a purple light",
+            "timestamp": 6.0
+        },
+        "-M7VdrQpWps_frame_4.jpg": {
+            "caption": "OCR: freq pwr | BLIP: a close up of a record player with a purple lightning effect",
+            "timestamp": 8.0
+        },
+        "-M7VdrQpWps_frame_5.jpg": {
+            "caption": "OCR: pwr | BLIP: someone is holding a light bulb with a star on it",
+            "timestamp": 10.0
+        },
+        "-M7VdrQpWps_frame_6.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is lighting a star with a light bulb on a turntable",
+            "timestamp": 12.0
+        },
+        "-M7VdrQpWps_frame_7.jpg": {
+            "caption": "OCR: [None detected] | BLIP: someone is holding a light bulb and a star shaped object",
+            "timestamp": 14.0
+        }
+    },
+    "-o7pVduTGVs": {
+        "-o7pVduTGVs_frame_0.jpg": {
+            "caption": "OCR: when my short friend comes over | BLIP: there is a little girl standing in front of a door",
+            "timestamp": 0.0
+        },
+        "-o7pVduTGVs_frame_1.jpg": {
+            "caption": "OCR: when my short friend comes over | BLIP: there is a man and a woman playing a game of soccer",
+            "timestamp": 2.0
+        },
+        "-o7pVduTGVs_frame_2.jpg": {
+            "caption": "OCR: when my short friend comes over | BLIP: there is a man and woman standing in front of a door",
+            "timestamp": 4.0
+        },
+        "-o7pVduTGVs_frame_3.jpg": {
+            "caption": "OCR: when my short friend - comes over | BLIP: there is a man and woman standing in front of a door",
+            "timestamp": 6.0
+        },
+        "-o7pVduTGVs_frame_4.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a young boy playing a video game in a living room",
+            "timestamp": 8.0
+        },
+        "-o7pVduTGVs_frame_5.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a man sitting on a couch laughing and laughing",
+            "timestamp": 10.0
+        },
+        "-o7pVduTGVs_frame_6.jpg": {
+            "caption": "OCR: 0*0d9 | BLIP: there is a man that is standing in the kitchen with a refrigerator",
+            "timestamp": 12.0
+        },
+        "-o7pVduTGVs_frame_7.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a man kneeling down in a kitchen with a sink",
+            "timestamp": 14.0
+        },
+        "-o7pVduTGVs_frame_8.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a man standing in a kitchen with a bottle of water",
+            "timestamp": 16.0
+        },
+        "-o7pVduTGVs_frame_9.jpg": {
+            "caption": "OCR: zhev 2ncvb2cknd | BLIP: there is a man washing his hands in a bathroom sink",
+            "timestamp": 18.0
+        },
+        "-o7pVduTGVs_frame_10.jpg": {
+            "caption": "OCR: 2hev 2ncvk2cknd dehol | BLIP: there is a man standing in a bathroom with a sink",
+            "timestamp": 20.0
+        },
+        "-o7pVduTGVs_frame_11.jpg": {
+            "caption": "OCR: 0n beach time | BLIP: there is a man sitting in a chair in a living room",
+            "timestamp": 22.0
+        },
+        "-o7pVduTGVs_frame_12.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a man sweeping the floor with a broom in a living room",
+            "timestamp": 24.0
+        },
+        "-o7pVduTGVs_frame_13.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there is a man and a woman that are playing with a dog",
+            "timestamp": 26.0
+        },
+        "-o7pVduTGVs_frame_14.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are two people sitting at a table in a kitchen",
+            "timestamp": 28.0
+        },
+        "-o7pVduTGVs_frame_15.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are two people sitting at a table in a kitchen",
+            "timestamp": 30.0
+        },
+        "-o7pVduTGVs_frame_16.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are people sitting at a table in a kitchen with a dog",
+            "timestamp": 32.0
+        },
+        "-o7pVduTGVs_frame_17.jpg": {
+            "caption": "OCR: [None detected] | BLIP: there are two people sitting at a table in a kitchen",
+            "timestamp": 34.0
+        }
+    }
+}
